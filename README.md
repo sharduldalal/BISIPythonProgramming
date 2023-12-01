@@ -20,3 +20,5 @@ BMI: Body mass index (weight in kg/(height in m)^2)
 DiabetesPedigreeFunction: A function that scores likelihood of diabetes based on family history
 Age: Age in years
 Outcome: Class variable (0: the person is not diabetic or 1: the person is diabetic)
+
+For the Python Project in the Algonuin College.
