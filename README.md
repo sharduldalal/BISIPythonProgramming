@@ -22,6 +22,6 @@ Age: Age in years;
 Outcome: Class variable (0: the person is not diabetic or 1: the person is diabetic); 
 
 For the Python Project in the Algonquin College.
-This project Submission is made towards the Final Project of the Course of BUSI Python Programming.
+This project Submission is made towards the Final Project of the Course of BISI Python Programming.
 Thanks 
 Shardul
